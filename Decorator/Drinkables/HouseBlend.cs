@@ -4,14 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Singleton
+namespace Decorator
 {
-    internal class Class1
+    internal class HouseBlend : Beverage
     {
-   
-        public void blabla()
-        {
-
-        }
     }
 }
